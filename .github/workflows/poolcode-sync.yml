@@ -1,4 +1,4 @@
-name: POOLCODE Sync
+kevinstore: POOLCODE Sync
 
 on:
   workflow_dispatch:
